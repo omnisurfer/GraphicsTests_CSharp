@@ -1,0 +1,9 @@
+G:\CloudSync\Design Research\Programming\Windows Desktop Programs\VS2012 Graphics Tests\VS2012 Graphics Tests\bin\Debug\VS2012 Graphics Tests.exe.config
+G:\CloudSync\Design Research\Programming\Windows Desktop Programs\VS2012 Graphics Tests\VS2012 Graphics Tests\bin\Debug\VS2012 Graphics Tests.exe
+G:\CloudSync\Design Research\Programming\Windows Desktop Programs\VS2012 Graphics Tests\VS2012 Graphics Tests\bin\Debug\VS2012 Graphics Tests.pdb
+G:\CloudSync\Design Research\Programming\Windows Desktop Programs\VS2012 Graphics Tests\VS2012 Graphics Tests\obj\Debug\VS2012 Graphics Tests.csprojResolveAssemblyReference.cache
+G:\CloudSync\Design Research\Programming\Windows Desktop Programs\VS2012 Graphics Tests\VS2012 Graphics Tests\obj\Debug\VS2012_Graphics_Tests.Properties.Resources.resources
+G:\CloudSync\Design Research\Programming\Windows Desktop Programs\VS2012 Graphics Tests\VS2012 Graphics Tests\obj\Debug\VS2012 Graphics Tests.csproj.GenerateResource.Cache
+G:\CloudSync\Design Research\Programming\Windows Desktop Programs\VS2012 Graphics Tests\VS2012 Graphics Tests\obj\Debug\VS2012 Graphics Tests.exe
+G:\CloudSync\Design Research\Programming\Windows Desktop Programs\VS2012 Graphics Tests\VS2012 Graphics Tests\obj\Debug\VS2012 Graphics Tests.pdb
+G:\CloudSync\Design Research\Programming\Windows Desktop Programs\VS2012 Graphics Tests\VS2012 Graphics Tests\obj\Debug\VS2012_Graphics_Tests.MainForm.resources
